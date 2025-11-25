@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cript to display information about domain subdomains
+#Script to display information about domain subdomains
 
 # Ignore shellcheck warning SC2086
 # shellcheck disable=SC2086
